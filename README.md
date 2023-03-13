@@ -1,5 +1,5 @@
 # WebForcer
-<img src="screenshot.png" alt="screenshot" />
+
 Simple Tool for bruteforce directories, subdirectories and files in a website.
 
 ## Usage
